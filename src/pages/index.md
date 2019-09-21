@@ -1,50 +1,93 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Infimosoft
+image: /img/main.jpg
+heading: Infimosoft
+subheading: Mobile games and applications
 mainpitch:
   title: Why Kaldi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Infimosoft
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Infimosoft
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image:  /img/apps/videopokerclassic.png
+      title: Video Poker Classic
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        https://play.google.com/store/apps/details?id=com.infimosoft.videopoker_deluxe.android&hl=en
+    - image: /img/apps/blackjack.png
+      title: Blackjack
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        https://play.google.com/store/apps/details?id=com.infimosoft.blackjack&hl=en
+    - image: /img/apps/sopaletraspt.png
+      title: Sopa de Letras
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+       https://play.google.com/store/apps/details?id=com.infimosoft.wordsearch&hl=en
+    - image: /img/app/pyramidsolitaire.png
+      title: Pyramid Solitaire
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+       https://play.google.com/store/apps/details?id=com.infimosoft.pyramidsolitaire&hl=en
+    - image: /img/app/wordsearcheng.png
+      title: Word Search
+      text: >
+        https://play.google.com/store/apps/details?id=com.infimosoft.videopoker_deluxe.android&hl=en
+    - image: /img/app/fruitslotscasino.png
+      title: Fruit Slot Casino
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.fruitslotscasino&hl=en
+    - image: /img/app/bubblebubbles.png
+      title: Bubble Bubbles
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.bubblebubbles&hl=en
+    - image: /img/app/freecellsolitaire.png
+      title: Freecell Solitaire
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.freecell&hl=en
+    - image: /img/app/junglebasketball.png
+      title: Jungle Basketball
+      text: >
+        https://play.google.com/store/apps/details?id=com.infimosoft.videopoker_deluxe.android&hl=en
+    - image: /img/app/LostjewelsofEgypt.png
+      title: Lost jewels of Egypt
+      text: >
+        https://play.google.com/store/apps/details?id=com.infimosoft.losttreasuresegypt&hl=en
+    - image: /img/app/minesweeper.png
+      title: Minesweeper
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.minesweeper&hl=en
+    - image: /img/app/palavrapuzzle.png
+      title: Palavra Puzzle
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.wordpuzzle.pt&hl=en
+    - image: /img/app/palavrasbaralhadas.png
+      title: Palavras Baralhadas
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.twistedwords&hl=en
+    - image: /img/app/sabiopalavras.png
+      title: Sábio das Palavras
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.sageofwords.pt&hl=en
+    - image: /img/app/santaclausrun.png
+      title: Santa Claus Run
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.santarun&hl=en
+    - image: /img/app/santaclausride.png
+      title: Santa Claus Ride
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.santaclausride&hl=en
+    - image: /img/app/tripeakssolitaire.png
+      title: Tripeaks solitaire
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.tripeaks.android&hl=en
+    - image: /img/app/videopokerparadise.png
+      title: Video Poker Paradise
+      text: >
+       https://play.google.com/store/apps/details?id=com.infimosoft.videopokerparadise_android&hl=en
+    - image: /img/app/videopokerclassicarcade.png
+      title: Video Poker Classic Arcade
+      text: >
+        https://play.google.com/store/apps/details?id=com.infimosoft.videopoker_classic_arcade&hl=en
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -54,7 +97,7 @@ intro:
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
+    Test We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
